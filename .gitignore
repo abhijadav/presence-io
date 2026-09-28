@@ -1,0 +1,6 @@
+node_modules
+dist
+.tsup
+coverage
+*.log
+.DS_Store
